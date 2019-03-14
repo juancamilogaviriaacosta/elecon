@@ -1,0 +1,1 @@
+web: gunicorn elecon.wsgi --log-file -
